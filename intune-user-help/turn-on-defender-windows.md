@@ -50,7 +50,7 @@ Check to make sure that Real-time Protection is turned on by going to **Start** 
 1. In **Start**, open **Control Panel**.
 2. Open **Administrative Tools** > **Edit group policy**. This will open the **Local Group Policy Editor** in a new window.
 3. Open **Computer Configuration** > **Administrative Templates** > **Windows Components** > **Windows Defender Security Center** > **Virus and threat protection**.
-4. Open the setting **Virus and threat protection area** and set it to **Disabled**.
+4. Open the setting **Virus and threat protection area** and set it to **Enabled**.
 
 ## Update your antivirus definitions
 
